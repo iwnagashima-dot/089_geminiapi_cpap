@@ -11,6 +11,9 @@ C:\work\089_CPAPgeminiapi\geminiapiCPAP.exe
 　－＞挿入モードオフ
 
 
+2026/06/02
+一部変更
+
 2026/06/01
 変更
 
