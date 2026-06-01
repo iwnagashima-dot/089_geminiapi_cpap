@@ -1,0 +1,11 @@
+cd C:\work\089_CPAPgeminiapi
+
+py -m PyInstaller --onefile --distpath . geminiapiCPAP.py
+
+C:\work\089_CPAPgeminiapi\geminiapiCPAP.exe
+
+
+
+ショートットのプロパティ
+　－＞簡易編集ロックオフ
+　－＞挿入モードオフ
